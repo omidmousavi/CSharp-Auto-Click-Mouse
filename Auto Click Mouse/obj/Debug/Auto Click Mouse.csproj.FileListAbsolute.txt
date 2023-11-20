@@ -1,0 +1,18 @@
+E:\Omid\c#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\bin\Debug\Auto Click Mouse.exe.config
+E:\Omid\c#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\bin\Debug\Auto Click Mouse.exe
+E:\Omid\c#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\bin\Debug\Auto Click Mouse.pdb
+E:\Omid\c#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.csprojResolveAssemblyReference.cache
+E:\Omid\c#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto_Click_Mouse.Form1.resources
+E:\Omid\c#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto_Click_Mouse.Properties.Resources.resources
+E:\Omid\c#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.csproj.GenerateResource.Cache
+E:\Omid\c#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.exe
+E:\Omid\c#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.pdb
+G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\bin\Debug\Auto Click Mouse.exe.config
+G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.exe
+G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.pdb
+G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\bin\Debug\Auto Click Mouse.exe
+G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\bin\Debug\Auto Click Mouse.pdb
+G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.csprojResolveAssemblyReference.cache
+G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto_Click_Mouse.Form1.resources
+G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto_Click_Mouse.Properties.Resources.resources
+G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.csproj.GenerateResource.Cache
