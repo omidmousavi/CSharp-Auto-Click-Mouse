@@ -53,7 +53,22 @@ namespace Auto_Click_Mouse
             txtSS.Enabled = false;
             timer1.Interval = Convert.ToInt32(txtInterval.Text);
             if (txtHH.Text.Length == 2 && txtMM.Text.Length == 2 && txtSS.Text.Length == 2)
-                 return;
+            {
+                if (int.Parse(txtHH.Text) > 23 || int.Parse(txtMM.Text) > 59 || int.Parse(txtSS.Text) > 59)
+                {
+                    MessageBox.Show("اطلاعات ساعت اشتباه است");
+                    this.BackColor = Color.Gainsboro;
+                    btnStop.Enabled = false;
+                    btnStart.Enabled = true;
+                    txtHH.Enabled = true;
+                    txtForwhile.Enabled = true;
+                    txtInterval.Enabled = true;
+                    txtHH.Enabled = true;
+                    txtMM.Enabled = true;
+                    txtSS.Enabled = true;
+                }
+                return;
+            }
             if(txtHH.Text.Length == 0 && txtMM.Text.Length == 0 && txtSS.Text.Length == 0)
             {
                  timer1.Start();
@@ -63,6 +78,7 @@ namespace Auto_Click_Mouse
             else if (txtHH.Text.Length < 2 || txtMM.Text.Length < 2 || txtSS.Text.Length < 2)
             {
                 MessageBox.Show("اطلاعات ساعت اشتباه است");
+                this.BackColor = Color.Gainsboro;
                 btnStop.Enabled = false;
                 btnStart.Enabled = true;
                 txtHH.Enabled = true;
@@ -143,6 +159,16 @@ namespace Auto_Click_Mouse
         {
             if (txtSS.Text.Length > 1)
                 txtForwhile.Focus();
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            linkLabel1.LinkVisited = true;
+            linkLabel1.LinkBehavior = LinkBehavior.HoverUnderline;
+            linkLabel1.Links[0].LinkData = "https://github.com/omidmousavi/CSharp-Auto-Click-Mouse";
+
+            // Open the URL in the default web browser
+            System.Diagnostics.Process.Start(linkLabel1.Links[0].LinkData.ToString());
         }
     }   
 }

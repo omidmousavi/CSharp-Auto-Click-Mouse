@@ -16,3 +16,12 @@ G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\
 G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto_Click_Mouse.Form1.resources
 G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto_Click_Mouse.Properties.Resources.resources
 G:\Omid\C#_Project\Auto Click Mouse\Auto Click Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.csproj.GenerateResource.Cache
+E:\Final Projects\C# Projects\Auto Click Mouse\CSharp-Auto-Click-Mouse\Auto Click Mouse\bin\Debug\Auto Click Mouse.exe.config
+E:\Final Projects\C# Projects\Auto Click Mouse\CSharp-Auto-Click-Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.exe
+E:\Final Projects\C# Projects\Auto Click Mouse\CSharp-Auto-Click-Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.pdb
+E:\Final Projects\C# Projects\Auto Click Mouse\CSharp-Auto-Click-Mouse\Auto Click Mouse\bin\Debug\Auto Click Mouse.exe
+E:\Final Projects\C# Projects\Auto Click Mouse\CSharp-Auto-Click-Mouse\Auto Click Mouse\bin\Debug\Auto Click Mouse.pdb
+E:\Final Projects\C# Projects\Auto Click Mouse\CSharp-Auto-Click-Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.csprojResolveAssemblyReference.cache
+E:\Final Projects\C# Projects\Auto Click Mouse\CSharp-Auto-Click-Mouse\Auto Click Mouse\obj\Debug\Auto_Click_Mouse.Form1.resources
+E:\Final Projects\C# Projects\Auto Click Mouse\CSharp-Auto-Click-Mouse\Auto Click Mouse\obj\Debug\Auto_Click_Mouse.Properties.Resources.resources
+E:\Final Projects\C# Projects\Auto Click Mouse\CSharp-Auto-Click-Mouse\Auto Click Mouse\obj\Debug\Auto Click Mouse.csproj.GenerateResource.Cache
